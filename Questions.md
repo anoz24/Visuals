@@ -18,7 +18,7 @@
 
 ---  
 
-**4. Which decoding algorithm heavily relies on the concept of free distance?**  
+**3. Which decoding algorithm heavily relies on the concept of free distance?**  
    a) Huffman coding  
    b) Viterbi algorithm  
    c) RSA encryption  
@@ -28,7 +28,7 @@
 
 ---  
 
-**5. The free distance of a convolutional code is similar to which concept in block codes?**  
+**4. The free distance of a convolutional code is similar to which concept in block codes?**  
    a) Code rate  
    b) Minimum distance  
    c) Parity bits  
@@ -38,7 +38,7 @@
 
 ---  
 
-**6. If a convolutional code has a free distance of 5, how many errors can it correct?**  
+**5. If a convolutional code has a free distance of 5, how many errors can it correct?**  
    a) 1  
    b) 2 
    c) 3  
@@ -48,7 +48,7 @@
 
 ---  
 
-**7. Which of the following affects the free distance of a convolutional code?**  
+**6. Which of the following affects the free distance of a convolutional code?**  
    a) The number of input bits  
    b) The constraint length and generator polynomials  
    c) The color of the trellis diagram  
@@ -58,7 +58,7 @@
 
 ---  
 
-**8. True or False: Free distance is only applicable to block codes, not convolutional codes.**  
+**7. True or False: Free distance is only applicable to block codes, not convolutional codes.**  
    a) True  
    b) False  
 
