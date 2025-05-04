@@ -18,16 +18,6 @@
 
 ---  
 
-**3. In a trellis diagram, the free distance is found by:**  
-   a) Counting the number of states  
-   b) Finding the shortest path that diverges and remerges with the all-zero path  
-   c) Measuring the longest branch in the trellis  
-   d) Adding up all branch labels  
-
-✅ **Answer:** (b) Finding the shortest path that diverges and remerges with the all-zero path  
-
----  
-
 **4. Which decoding algorithm heavily relies on the concept of free distance?**  
    a) Huffman coding  
    b) Viterbi algorithm  
