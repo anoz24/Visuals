@@ -38,13 +38,13 @@
 
 ---  
 
-**6. If a convolutional code has a free distance of 11, how many errors can it correct?**  
-   a) 4  
-   b) 6  
-   c) 8  
-   d) 10  
+**6. If a convolutional code has a free distance of 5, how many errors can it correct?**  
+   a) 1  
+   b) 2 
+   c) 3  
+   d) 4  
 
-✅ **Answer:** (d) 10 (since \(\left\lfloor \frac{11-1}{2} \right\rfloor = 2\))  
+✅ **Answer:** (b) 2 (since \(\left\lfloor \frac{5-1}{2} \right\rfloor = 2\))  
 
 ---  
 
